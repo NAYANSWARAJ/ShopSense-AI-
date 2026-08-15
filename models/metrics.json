@@ -1,0 +1,30 @@
+{
+    "project": "ShopSense",
+    "model": "XGBoost",
+    "accuracy": 0.8959178156258448,
+    "precision": 0.7010752688172043,
+    "recall": 0.5699300699300699,
+    "f1_score": 0.6287367405978785,
+    "roc_auc": 0.9249056827406683,
+    "training_samples": 8631,
+    "testing_samples": 3699,
+    "features": [
+        "Administrative",
+        "Administrative_Duration",
+        "Informational",
+        "Informational_Duration",
+        "ProductRelated",
+        "ProductRelated_Duration",
+        "BounceRates",
+        "ExitRates",
+        "PageValues",
+        "SpecialDay",
+        "Month",
+        "OperatingSystems",
+        "Browser",
+        "Region",
+        "TrafficType",
+        "VisitorType",
+        "Weekend"
+    ]
+}
