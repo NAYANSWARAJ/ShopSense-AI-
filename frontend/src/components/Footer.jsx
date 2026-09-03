@@ -13,7 +13,7 @@
         </div>
 
         <div>
-          Developer <span className="font-semibold text-slate-900">Ankit Raj</span>
+          Developer <span className="font-semibold text-slate-900">NAYAN KUMAR SAH</span>
         </div>
 
       </div>
